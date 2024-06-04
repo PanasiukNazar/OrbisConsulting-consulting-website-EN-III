@@ -1084,9 +1084,10 @@ SECTIONS
 
 .box {
     background-color: #ffffff;
-    padding: 4rem;
+    padding: 3rem;
     position: relative;
     z-index: 11;
+    height: 400px;
 }
 
 .box p {
